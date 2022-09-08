@@ -23,7 +23,7 @@
 <a href="https://twitter.com/adii_anand_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adii_anand_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adii-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adii-anand" height="30" width="40" /></a>
 <a href="https://instagram.com/adii._.anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adii._.anand" height="30" width="40" /></a>
-<a href="https://https://www.youtube.com/c/witTACT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/wittact" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/witTACT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/wittact" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thenoobdebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thenoobdebugger" height="30" width="40" /></a>
 </p>
 
