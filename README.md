@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 <h1 align="center">Hi 👋, I'm Aditya Anand</h1>
-<h3 align="center">A passionate Coding Learner</h3>
+<h3 align="center">A passionate Code Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
