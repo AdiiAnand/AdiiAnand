@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Aditya-Anand-189](https://www.quora.com/profile/Aditya-Anand-189)
 
-- 💬 Ask me about **Custom Rom, Coding in c++ ,Android**
+- 💬 Ask me about **Custom Roms, Python, Js, Java, Android**
 
 - 📫 How to reach me **adityaanad430@gmail.com**
 
