@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenoobdebugger&label=Profile%20views&color=0e75b6&style=flat" alt="thenoobdebugger" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adiianand&label=Profile%20views&color=0e75b6&style=flat" alt="adiianand" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenoobdebugger" alt="thenoobdebugger" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiianand" alt="adiianand" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adii_anand_" target="blank"><img src="https://img.shields.io/twitter/follow/adii_anand_?logo=twitter&style=for-the-badge" alt="adii_anand_" /></a> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adityaanad430@gmail.com**
 
-- ⚡ Fun fact **Love to Game and explore new Technologies.**
+- ⚡ Fun fact **I Love to Game and explore new Technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/adii-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adii-anand" height="30" width="40" /></a>
 <a href="https://instagram.com/adii._.anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adii._.anand" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/witTACT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/wittact" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/TheNoobDebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thenoobdebugger" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/AdiiAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thenoobdebugger" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
