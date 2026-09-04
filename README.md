@@ -1,50 +1,44 @@
 <div align="center">
 
-# `ADITYA ANAND`
-
-### 💻 Developer • 🚀 Builder • 🎨 Creator
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=ADITYA%20ANAND&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20BUILD&descAlignY=60&descSize=18&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Code.+Solve.+Create.;Always+Learning.+Always+Building.;Turning+ideas+into+working+software." />
+<a href="https://github.com/AdiiAnand">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Developer+%7C+Creator+%7C+Problem+Solver;Turning+ideas+into+working+software;Always+learning.+Always+building.;Welcome+to+my+digital+workspace+%F0%9F%91%8B"/>
+</a>
 
 <br><br>
 
-<a href="https://github.com/AdiiAnand">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/adii-anand">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=AdiiAnand&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `> WHOAMI`
+<div align="center">
+
+## `> whoami`
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 Developer Mode
+### 👨‍💻 Developer Mode: `ONLINE`
 
-I'm passionate about **technology, programming and creative work**.
+I'm passionate about **building, experimenting and learning** through technology.
 
-I enjoy learning new technologies, building projects and experimenting with different ideas.
+I enjoy working across programming, application development and creative digital tools — constantly exploring new ways to turn ideas into something useful.
 
 ```text
-┌──────────────────────────────────────┐
-│          DEVELOPER STATUS            │
-├──────────────────────────────────────┤
-│                                      │
-│  ● Coding ................. ONLINE   │
-│  ● Learning ............... ACTIVE   │
-│  ● Creativity ............. ON       │
-│  ● Curiosity .............. 100%     │
-│                                      │
-└──────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│  SYSTEM STATUS                      │
+├─────────────────────────────────────┤
+│  ● Coding       ONLINE               │
+│  ● Learning     ALWAYS              │
+│  ● Creativity   ENABLED             │
+│  ● Curiosity    UNLIMITED           │
+└─────────────────────────────────────┘
 ```
 
 </td>
@@ -57,48 +51,48 @@ I enjoy learning new technologies, building projects and experimenting with diff
 </tr>
 </table>
 
+</div>
+
 ---
 
-# ⚡ TECH ARSENAL
+# 🧠 TECH ARSENAL
 
 <div align="center">
 
-### `01 // PROGRAMMING`
+### `PROGRAMMING`
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 
-<br>
+<br><br>
 
-### `02 // DEVELOPMENT`
+### `DEVELOPMENT`
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic\&logo=mysql\&logoColor=white)
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
-<br>
+<br><br>
 
-### `03 // CREATIVE`
+### `CREATIVE TOOLKIT`
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic\&logo=adobe\&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic\&logo=Adobe%20After%20Effects\&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic\&logo=Adobe%20Premiere%20Pro\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic\&logo=adobe%20photoshop\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white)
+<img src="https://img.shields.io/badge/Adobe-0F172A?style=for-the-badge&logo=adobe&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/After_Effects-0F172A?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-0F172A?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/Photoshop-0F172A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
 
 </div>
 
 ---
 
-# 📊 GITHUB // LIVE DATA
-
 <div align="center">
 
-### 🔥 Contribution Streak
+# ⚡ GITHUB // LIVE DASHBOARD
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiiAnand&theme=tokyonight&hide_border=true"/>
 
@@ -106,23 +100,16 @@ I enjoy learning new technologies, building projects and experimenting with diff
 
 <table>
 <tr>
-
-<td width="50%" align="center">
-
-### 🧠 Languages
+<td>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiAnand&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 </td>
-
-<td width="50%" align="center">
-
-### 🏆 Contributions
+<td>
 
 <img src="https://github-contributor-stats.vercel.app/api?username=AdiiAnand&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -130,7 +117,7 @@ I enjoy learning new technologies, building projects and experimenting with diff
 
 ---
 
-# 📡 ACTIVITY // LIVE FEED
+# 🛰️ ACTIVITY STREAM
 
 <div align="center">
 
@@ -141,14 +128,12 @@ I enjoy learning new technologies, building projects and experimenting with diff
 ---
 
 <details>
-<summary><h2>🧩 Explore My Stack</h2></summary>
+<summary><h2>🧩 Explore My Tech Stack</h2></summary>
 
 <br>
 
 <table align="center">
-
 <tr>
-
 <td align="center" width="25%">
 
 ### 💻
@@ -168,7 +153,7 @@ HTML5
 
 ### ⚛️
 
-**Development**
+**Frameworks**
 
 React
 React Native
@@ -198,9 +183,7 @@ Photoshop
 Canva
 
 </td>
-
 </tr>
-
 </table>
 
 </details>
@@ -209,7 +192,7 @@ Canva
 
 <div align="center">
 
-# ✍️ RANDOM DEV QUOTE
+# ✍️ RANDOM DEVELOPER THOUGHT
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
@@ -217,21 +200,33 @@ Canva
 
 ---
 
-# 🌐 SOCIALS
+# 🌐 CONNECT // SOCIAL NETWORK
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/Adii.anand)
+<a href="https://facebook.com/Adii.anand">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/aditya._.anand)
+<a href="https://instagram.com/aditya._.anand">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/adii-anand)
+<a href="https://linkedin.com/in/adii-anand">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora\&logoColor=white)](https://quora.com/profile/Aditya-Anand-189)
+<a href="https://quora.com/profile/Aditya-Anand-189">
+<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+</a>
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/adii_anand_)
+<a href="https://x.com/adii_anand_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@wittact)
+<a href="https://youtube.com/@wittact">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 </div>
 
@@ -240,14 +235,14 @@ Canva
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       CODE  →  BUILD  →  LEARN  →  REPEAT           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     "DON'T JUST WRITE CODE. BUILD SOMETHING PEOPLE USE."    ║
+║                                                              ║
+║                    < / KEEP BUILDING >                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
-
-### 🚀 Always Learning. Always Building.
 
 <br>
 
@@ -255,7 +250,7 @@ Canva
 
 <br><br>
 
-<sub>Built with curiosity • Powered by code • Made to keep growing</sub>
+<sub>Designed with curiosity • Built with code • Powered by caffeine ☕</sub>
 
 </div>
 
