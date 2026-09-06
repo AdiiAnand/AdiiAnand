@@ -154,10 +154,6 @@ public class AdityaAnand {
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-<img src="https://visitcount.itsvg.in/api?id=AdiiAnand&icon=2&color=0"/>
-
 <br><br>
 
 <sub>Designed with curiosity • Built with code • Powered by caffeine ☕</sub>
