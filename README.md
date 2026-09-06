@@ -14,7 +14,6 @@
 
 </div>
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -80,6 +79,23 @@ public class AdityaAnand {
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdiiAnand&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya Anand's GitHub Stats" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=AdiiAnand&theme=tokyonight&hide_border=true" alt="Aditya Anand's GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiAnand&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Aditya Anand's Most Used Languages" />
+
+</div>
 
 ---
 
@@ -91,6 +107,68 @@ public class AdityaAnand {
 
 </div>
 
+---
+
+<details>
+<summary><h2>🧩 Explore My Tech Stack</h2></summary>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 💻
+
+**Languages**
+
+C
+C++
+Java
+Python
+JavaScript
+HTML5
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+
+**Frameworks**
+
+React
+React Native
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+MySQL
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**Creative**
+
+Adobe
+After Effects
+Premiere Pro
+Photoshop
+Canva
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
