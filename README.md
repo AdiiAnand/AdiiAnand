@@ -144,17 +144,17 @@ public class AdityaAnand {
 
 <div align="center">
 
-```text
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║     "DON'T JUST WRITE CODE. BUILD SOMETHING PEOPLE USE."    ║
 ║                                                              ║
-║                    < / KEEP BUILDING >                       ║
+║                    &lt; / KEEP BUILDING &gt;                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
-<br><br>
+<br>
 
 <sub>Designed with curiosity • Built with code • Powered by caffeine ☕</sub>
 
