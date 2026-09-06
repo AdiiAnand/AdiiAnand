@@ -100,37 +100,6 @@ public class AdityaAnand {
 
 </div>
 
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Database**
-
-MySQL
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Creative**
-
-Adobe
-After Effects
-Premiere Pro
-Photoshop
-Canva
-
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
 <div align="center">
 
 # ✍️ RANDOM DEVELOPER THOUGHT
