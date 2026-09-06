@@ -100,40 +100,6 @@ public class AdityaAnand {
 
 </div>
 
----
-
-<details>
-<summary><h2>🧩 Explore My Tech Stack</h2></summary>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 💻
-
-**Languages**
-
-C
-C++
-Java
-Python
-JavaScript
-HTML5
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Frameworks**
-
-React
-React Native
-
-</td>
 
 <td align="center" width="25%">
 
