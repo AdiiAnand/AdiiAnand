@@ -14,44 +14,34 @@
 
 </div>
 
+
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-## `> whoami`
+```java
+public class AdityaAnand {
 
-<table>
-<tr>
-<td width="55%" valign="top">
+    String role = "Java Developer & DSA Enthusiast";
+    String education = "MCA Student @ NIT Agartala";
 
-### 👨‍💻 Developer Mode: `ONLINE`
+    String[] focusedOn = {
+        "Java",
+        "Data Structures & Algorithms",
+        "Problem Solving"
+    };
 
-I'm passionate about **building, experimenting and learning** through technology.
+    String[] learning = {
+        "Backend Development",
+        "Advanced DSA"
+    };
 
-I enjoy working across programming, application development and creative digital tools — constantly exploring new ways to turn ideas into something useful.
-
-```text
-┌─────────────────────────────────────┐
-│  SYSTEM STATUS                      │
-├─────────────────────────────────────┤
-│  ● Coding       ONLINE               │
-│  ● Learning     ALWAYS              │
-│  ● Creativity   ENABLED             │
-│  ● Curiosity    UNLIMITED           │
-└─────────────────────────────────────┘
+    String motto = "Consistency > Motivation";
+}
 ```
 
-</td>
+> ☕ Learning Java • Building with code • Growing every day
 
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdiiAnand&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -73,6 +63,8 @@ I enjoy working across programming, application development and creative digital
 ### `DEVELOPMENT`
 
 <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
@@ -91,138 +83,14 @@ I enjoy working across programming, application development and creative digital
 
 ---
 
-## 👨‍💻 About Me
-
-```java
-public class AdityaAnand {
-
-    String role = "Java Developer & DSA Enthusiast";
-
-    String education = "MCA Student @ NIT Agartala";
-
-    String[] currentlyWorkingOn = {
-        "Data Structures & Algorithms",
-        "Java",
-        "Problem Solving"
-    };
-
-    String[] learning = {
-        "Advanced DSA",
-        "Competitive Programming"
-    };
-
-    String[] interests = {
-        "Java",
-        "Programming",
-        "Open Source"
-    };
-
-    String motto = "Consistency > Motivation";
-}
-```
-
-- ☕ Currently focusing on **Java & Data Structures**
-- 🌱 Learning **DSA and improving problem-solving skills**
-- 🚀 Building my skills through **projects and practice**
-- 🤝 Interested in **Java, DSA & Open Source**
-- 🎓 MCA Student at **NIT Agartala**
-
-<div align="center">
-
-# ⚡ GITHUB // LIVE DASHBOARD
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiiAnand&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiAnand&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-</td>
-<td>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AdiiAnand&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdiiAnand&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=8" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=AdiiAnand&theme=dark" alt="GitHub Trophies" />
 
 </div>
 
-<details>
-<summary><h2>🧩 Explore My Tech Stack</h2></summary>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 💻
-
-**Languages**
-
-C
-C++
-Java
-Python
-JavaScript
-HTML5
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚛️
-
-**Frameworks**
-
-React
-React Native
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Database**
-
-MySQL
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Creative**
-
-Adobe
-After Effects
-Premiere Pro
-Photoshop
-Canva
-
-</td>
-</tr>
-</table>
-
-</details>
 
 ---
 
