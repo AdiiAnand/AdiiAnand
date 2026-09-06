@@ -85,15 +85,8 @@ public class AdityaAnand {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdiiAnand&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya Anand's GitHub Stats" />
+![](https://github-readme-stats.shion.dev/api?username=AdiiAnand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=veerushukla&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdiiAnand&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AdiiAnand&theme=tokyonight&hide_border=true" alt="Aditya Anand's GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiAnand&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Aditya Anand's Most Used Languages" />
 
 </div>
 
@@ -103,7 +96,7 @@ public class AdityaAnand {
 
 <div align="center">
 
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=AdiiAnand&theme=dark" alt="GitHub Trophies" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=AdiiAnand&theme=dark" />
 
 </div>
 
