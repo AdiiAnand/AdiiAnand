@@ -88,7 +88,44 @@ I enjoy working across programming, application development and creative digital
 
 </div>
 
+
 ---
+
+## 👨‍💻 About Me
+
+```java
+public class AdityaAnand {
+
+    String role = "Java Developer & DSA Enthusiast";
+
+    String education = "MCA Student @ NIT Agartala";
+
+    String[] currentlyWorkingOn = {
+        "Data Structures & Algorithms",
+        "Java",
+        "Problem Solving"
+    };
+
+    String[] learning = {
+        "Advanced DSA",
+        "Competitive Programming"
+    };
+
+    String[] interests = {
+        "Java",
+        "Programming",
+        "Open Source"
+    };
+
+    String motto = "Consistency > Motivation";
+}
+```
+
+- ☕ Currently focusing on **Java & Data Structures**
+- 🌱 Learning **DSA and improving problem-solving skills**
+- 🚀 Building my skills through **projects and practice**
+- 🤝 Interested in **Java, DSA & Open Source**
+- 🎓 MCA Student at **NIT Agartala**
 
 <div align="center">
 
@@ -115,17 +152,16 @@ I enjoy working across programming, application development and creative digital
 
 </div>
 
+
 ---
 
-# 🛰️ ACTIVITY STREAM
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiiAnand&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdiiAnand&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=8" />
 
 </div>
-
----
 
 <details>
 <summary><h2>🧩 Explore My Tech Stack</h2></summary>
